@@ -1,0 +1,3 @@
+- Always activate conda environment 'mirai-ai' before running Python or pip commands in the terminal
+- Use 'conda activate mirai-ai' for all backend Python operations
+- When running Python scripts or installing packages, ensure the mirai-ai environment is activated first
