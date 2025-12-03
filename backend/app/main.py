@@ -11,7 +11,7 @@ Base.metadata.create_all(bind=engine)
 app = FastAPI(
     title="MirAI Inference API",
     description="AI Object Detection Web Service",
-    version="1.0.0"
+    version="0.1.0"
 )
 
 # CORS 설정
